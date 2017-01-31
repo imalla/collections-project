@@ -8,7 +8,7 @@
 		<dependency>
 			<groupId>testng</groupId>
 			<artifactId>testng</artifactId>
-			<version>4.12</version>
+			<version>6.9.10</version>
 		</dependency>
 	</dependencies>
 	<build>
